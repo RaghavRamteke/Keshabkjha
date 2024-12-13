@@ -115,5 +115,3 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=keshabkjha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
 
-
-![snake gif](https://github.com/Keshabkjha/keshabkjha/blob/output/github-contribution-grid-snake.svg)
